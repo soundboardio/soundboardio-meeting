@@ -1,0 +1,106 @@
+{
+  "name": "Meeting: Survival Kit",
+  "shortName": "meeting-survival-kit",
+  "description": "Survive your meetings",
+  "author": {
+    "name": "AquaSoup",
+    "url": "https://aquasoup.com"
+  },
+  "color": "#2D8CFF",
+  "version": "1.0.0",
+  "lang": "en",
+  "rootUrl": "sounds/",
+  "icons": [
+    {
+      "src": "/icons/og-image.jpg",
+      "sizes": "1200x655",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon.png",
+      "sizes": "64x64",
+      "purpose": "maskable any",
+      "type": "image/png"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "A few moments later",
+      "filename": "a-few-moments-later.mp3"
+    },
+    {
+      "name": "Airhorn",
+      "filename": "airhorn.mp3"
+    },
+    {
+      "name": "Applause",
+      "filename": "applause.mp3"
+    },
+    {
+      "name": "Awkward cricket",
+      "filename": "awkward-cricket.mp3"
+    },
+    {
+      "name": "Ba dum tss",
+      "filename": "ba-dum-tss.mp3"
+    },
+    {
+      "name": "Cash register",
+      "filename": "cash-register.mp3"
+    },
+    {
+      "name": "Curb your enthusiasm",
+      "filename": "curb-your-enthusiasm.mp3"
+    },
+    {
+      "name": "Drum roll",
+      "filename": "drum-roll.mp3"
+    },
+    {
+      "name": "Du dun dun",
+      "filename": "du-dun-dun.mp3"
+    },
+    {
+      "name": "Elevator music",
+      "filename": "elevator-music.mp3"
+    },
+    {
+      "name": "Nope",
+      "filename": "engineer-no.mp3"
+    },
+    {
+      "name": "Golfclap",
+      "filename": "golfclap.mp3"
+    },
+    {
+      "name": "Hallelujah",
+      "filename": "hallelujah.mp3"
+    },
+    {
+      "name": "Magic wand",
+      "filename": "magic-wand.mp3"
+    },
+    {
+      "name": "Sad trombone",
+      "filename": "sad-trombone.mp3"
+    },
+    {
+      "name": "Window shutdown",
+      "filename": "window-shutdown.mp3"
+    },
+    {
+      "name": "Wow",
+      "filename": "wow-owen.mp3"
+    }
+  ]
+}
