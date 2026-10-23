@@ -2,6 +2,12 @@
   "name": "Meeting: Survival Kit",
   "shortName": "meeting-survival-kit",
   "description": "Survive your meetings",
+  "story": [
+    "Some moments in a video call deserve a drum roll, others just awkward crickets. 🥁",
+    "Meeting: Survival Kit is 17 stock sound effects for exactly those moments — an airhorn when the quarter closes, a sad trombone when it doesn't, and elevator music for the fifteenth minute of \"can everyone see my screen?\".",
+    "Keep it open in a second tab. One tap plays, the keyboard works as a shortcut, and it still runs once the Wi-Fi gives up.",
+    "Use responsibly. Everyone on the call can hear it too."
+  ],
   "author": {
     "name": "AquaSoup",
     "url": "https://aquasoup.com"
